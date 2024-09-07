@@ -3,6 +3,6 @@
 </p>
 <p align="center"
   
-[rentry](https://rentry.co/criminaloffense), [atabook](https://criminaloffense.atabook.org/)
+[rentry](https://rentry.co/criminaloffense), [atabook](https://criminal-offense.atabook.org/)
 
 <br>
